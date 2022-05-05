@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <h3 align="center">Simple Etherium Pool - Weekly Rewards</h3>
+  <h1 align="center">Simple Etherium Pool - Weekly Rewards</h1>
 </div>
 
 
@@ -12,7 +12,7 @@ rewards. Users must be able to take out their deposits along with their portion 
 at any time. New rewards are deposited manually into the pool by the ETHPool team
 each week using a contract function.
 
-## Deployed and verified contracts
+## Deployed and verified contract
 * ETHPool (kovan) = "0xc2FddDDAF6Af6C33d6B4C24a4efF74506b849BE1"
 https://kovan.etherscan.io/address/0xc2FddDDAF6Af6C33d6B4C24a4efF74506b849BE1
 
