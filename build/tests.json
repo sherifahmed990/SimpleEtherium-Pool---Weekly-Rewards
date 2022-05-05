@@ -1,0 +1,141 @@
+{
+  "contracts": {
+    "ETHPool": "8117a7f83d9cd2518bd24e5b9542d5fc9c481b32"
+  },
+  "tests": {
+    "tests/test_deposit.py": {
+      "coverage": false,
+      "isolated": [
+        "ETHPool"
+      ],
+      "results": ".",
+      "sha1": "917bf76fb615ab83c9e75ec58e72e7d368f38475",
+      "txhash": [
+        "96ff8dd53a4f91131222f79e5f5c11990c791e4b",
+        "bde411205a7d93ba371905ddbc9898190fc4e370"
+      ]
+    },
+    "tests/test_governance.py": {
+      "coverage": false,
+      "isolated": [
+        "ETHPool"
+      ],
+      "results": ".",
+      "sha1": "1c52b347f076192e3b979662ff9e414393ac359d",
+      "txhash": [
+        "5babc8a5ababdd9fb0e8982caefebf8347e12ebe",
+        "c68aabf755caf907f3e26ac1092f5796f6e70a8b",
+        "ce0c79fc7b515965b2606ba50bd591848511d1fb"
+      ]
+    },
+    "tests/test_rewards_deposit.py": {
+      "coverage": false,
+      "isolated": [
+        "ETHPool"
+      ],
+      "results": ".",
+      "sha1": "7d4acf55a0dd1c957738e9a213e9e766229ffbe2",
+      "txhash": []
+    },
+    "tests/test_withdraw.py": {
+      "coverage": false,
+      "isolated": [
+        "ETHPool"
+      ],
+      "results": ".",
+      "sha1": "d5e3b57d1b45ff4ef013d9cb2084c421530eaf3b",
+      "txhash": [
+        "74fbfbe45b51d7c07f6b4e3977609de8ce313844",
+        "847f84964b5e95b6097b2be6c52cc100252d3d83"
+      ]
+    }
+  },
+  "tx": {
+    "5babc8a5ababdd9fb0e8982caefebf8347e12ebe": {
+      "ETHPool": {
+        "0": [
+          [],
+          [],
+          []
+        ]
+      }
+    },
+    "74fbfbe45b51d7c07f6b4e3977609de8ce313844": {
+      "ETHPool": {
+        "0": [
+          [
+            2,
+            3
+          ],
+          [
+            33
+          ],
+          [
+            32
+          ]
+        ]
+      }
+    },
+    "847f84964b5e95b6097b2be6c52cc100252d3d83": {
+      "ETHPool": {
+        "0": [
+          [
+            2
+          ],
+          [
+            32
+          ],
+          []
+        ]
+      }
+    },
+    "96ff8dd53a4f91131222f79e5f5c11990c791e4b": {
+      "ETHPool": {
+        "0": [
+          [
+            25,
+            26
+          ],
+          [
+            41,
+            42
+          ],
+          [
+            40
+          ]
+        ]
+      }
+    },
+    "bde411205a7d93ba371905ddbc9898190fc4e370": {
+      "ETHPool": {
+        "0": [
+          [
+            25
+          ],
+          [
+            40
+          ],
+          []
+        ]
+      }
+    },
+    "c68aabf755caf907f3e26ac1092f5796f6e70a8b": {
+      "ETHPool": {
+        "0": [
+          [],
+          [],
+          []
+        ]
+      }
+    },
+    "ce0c79fc7b515965b2606ba50bd591848511d1fb": {
+      "ETHPool": {
+        "0": [
+          [],
+          [],
+          []
+        ]
+      }
+    }
+  }
+}
