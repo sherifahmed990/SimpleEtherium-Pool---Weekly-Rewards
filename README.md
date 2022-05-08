@@ -16,7 +16,7 @@ each week using a contract function.
 * ETHPool (kovan) = "0xc2FddDDAF6Af6C33d6B4C24a4efF74506b849BE1"
 https://kovan.etherscan.io/address/0xc2FddDDAF6Af6C33d6B4C24a4efF74506b849BE1
 
-## Sungraph for ETHPool Contract
+## Subgraph for ETHPool Contract
 https://github.com/sherifahmed990/Subgraph-for-the-ETHPool-Contract
 https://thegraph.com/hosted-service/subgraph/sherifahmed990/eth-pool3
 
